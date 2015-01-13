@@ -1,0 +1,3 @@
+[submodule "example_bins"]
+	path = example_bins
+	url = git@github.com:duke-compsci308-spring2015/example_bins.git
